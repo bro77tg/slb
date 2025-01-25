@@ -1,7 +1,7 @@
 #PYTHON VERSION == 3.12.4
 
 #API Ключ для бота телеграм
-API_TOKEN = '7470564935:AAEPSpK-Vea4EbcpfliTIlQzfvrRF7mSxNk'
+API_TOKEN = '7123324554:AAFj7man4kXMvUudjW8Mqg691wHP82JV3Lk'
 
 
 # Путь к файлу с API ключами Passivbot
