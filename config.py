@@ -11,5 +11,5 @@ API_KEYS_DEACTIVATED_FILE = "api_keys_deactivated.json" # Название де�
 
 
 # Команды для завершения работы и запуска скрипта в tmux
-deactivate_command = "tmux send-keys -t moontrader 'C-c'"
+deactivate_command = "tmux send-keys -t moontrader 'MoonTrader --stop'"
 restore_command = "tmux send-keys -t your-session-name 'your-restore-command' C-m"
